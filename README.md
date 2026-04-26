@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🎬 Movie Recommender System</h1>
+  <h1> Movie Recommender System</h1>
   <p><em>Construyendo un Sistema de Recomendación desde Cero (sin librerías de Machine Learning)</em></p>
 
   ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -10,7 +10,7 @@
 
 ---
 
-## 📝 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este repositorio contiene la implementación completa de un **Sistema de Recomendación de Películas** desarrollado puramente con matemáticas vectoriales y operaciones matriciales utilizando **NumPy y Pandas**. 
 
@@ -18,7 +18,7 @@ Este repositorio contiene la implementación completa de un **Sistema de Recomen
 
 ---
 
-## 👥 Equipo de Desarrollo
+## Equipo de Desarrollo
 
 Este proyecto fue desarrollado colaborativamente dividiendo la implementación de los algoritmos y experimentación:
 
@@ -30,7 +30,7 @@ Este proyecto fue desarrollado colaborativamente dividiendo la implementación d
 
 ---
 
-## 🚀 Tecnologías y Algoritmos Implementados
+##  Tecnologías y Algoritmos Implementados
 
 Para resolver el problema de recomendación sin librerías externas, se construyeron 3 motores algorítmicos:
 
@@ -80,7 +80,7 @@ Y ejecuta los notebooks en el siguiente orden estricto dentro de la carpeta `/no
 
 ---
 
-## 📁 Estructura del Directorio
+## Estructura del Directorio
 
 ```text
 ML_MOVIES/
