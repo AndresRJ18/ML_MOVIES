@@ -24,9 +24,9 @@ Este proyecto fue desarrollado colaborativamente dividiendo la implementación d
 
 | Rol | Miembro del Equipo | Responsabilidad Principal |
 | :---: | :--- | :--- |
-| **Estudiante A** | 👨‍💻 **Andres Rodas** | EDA, Preprocesamiento de texto y Algoritmo **Content-Based Filtering** (TF-IDF) |
-| **Estudiante B** | 👩‍💻 **Patricia Rebatta** | Optimización Matemática, **Matrix Factorization + SGD** (Collaborative Filtering) |
-| **Estudiante C** | 👨‍💻 **Marcelo Rodriguez** | Implementación **KNN**, Métricas de Evaluación y Análisis Comparativo Final |
+| **Estudiante A** | **Andres Rodas** | EDA, Preprocesamiento de texto y Algoritmo **Content-Based Filtering** (TF-IDF) |
+| **Estudiante B** | **Patricia Rebatta** | Optimización Matemática, **Matrix Factorization + SGD** (Collaborative Filtering) |
+| **Estudiante C** | **Marcelo Rodriguez** | Implementación **KNN**, Métricas de Evaluación y Análisis Comparativo Final |
 
 ---
 
@@ -45,7 +45,7 @@ Para resolver el problema de recomendación sin librerías externas, se construy
 
 ---
 
-## ⚙️ Instrucciones de Instalación y Uso
+## Instrucciones de Instalación y Uso
 
 Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
