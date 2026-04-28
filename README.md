@@ -104,7 +104,7 @@ ML_MOVIES/
 │   ├── models/          # Implementación matemática de TF-IDF, SGD y KNN
 │   └── evaluation/      # Métricas (Precision@K, Recall@K, RMSE, Coverage)
 ├── reports/             # Figuras generadas y reportes en PDF del proyecto
-├── presentation/        # Diapositivas para la defensa (20 min)
+├── presentation/        # Diapositivas de la exposición 
 ├── requirements.txt     # Dependencias necesarias
 └── README.md            # Este archivo
 ```
