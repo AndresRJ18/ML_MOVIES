@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🎬 Movie Recommender System (MOVIE_ML)</h1>
-  <p><em>Construyendo un Sistema de Recomendación desde Cero (sin librerías de Machine Learning)</em></p>
+  <p><em>Construyendo un Sistema de Recomendación </em></p>
 
   ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)
   ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
