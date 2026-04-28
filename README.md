@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Movie Recommender System</h1>
+  <h1>🎬 Movie Recommender System (MOVIE_ML)</h1>
   <p><em>Construyendo un Sistema de Recomendación desde Cero (sin librerías de Machine Learning)</em></p>
 
   ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -10,38 +10,49 @@
 
 ---
 
-## Descripción del Proyecto
+## 📖 Descripción del Proyecto
 
-Este repositorio contiene la implementación completa de un **Sistema de Recomendación de Películas** desarrollado puramente con matemáticas vectoriales y operaciones matriciales utilizando **NumPy y Pandas**. 
+En la era de la economía digital, la sobreabundancia de información en las plataformas de streaming genera una severa fatiga de decisión en los usuarios. **MOVIE_ML** nace como una solución integral a este problema, utilizando el dataset de TMDB para filtrar contenido de manera eficiente y ajustar matemáticamente las recomendaciones a la identidad de cada usuario.
 
-**El desafío principal:** No utilizar ningún framework pre-construido de modelamiento como *Scikit-Learn, PyTorch o TensorFlow* para comprender los fundamentos matemáticos de cada algoritmo.
-
----
-
-## Equipo de Desarrollo
-
-Este proyecto fue desarrollado colaborativamente dividiendo la implementación de los algoritmos y experimentación:
-
-| Rol | Miembro del Equipo | Responsabilidad Principal |
-| :---: | :--- | :--- |
-| **Estudiante A** | **Andres Rodas** | EDA, Preprocesamiento de texto y Algoritmo **Content-Based Filtering** (TF-IDF) |
-| **Estudiante B** | **Patricia Rebatta** | Optimización Matemática, **Matrix Factorization + SGD** (Collaborative Filtering) |
-| **Estudiante C** | **Marcelo Rodriguez** | Implementación **KNN**, Métricas de Evaluación y Análisis Comparativo Final |
+El proyecto implementa un enfoque híbrido que combina la precisión de los atributos intrínsecos de las películas con el descubrimiento de patrones ocultos de comportamiento, tratando el gusto cinematográfico como una variable estrictamente cuantificable.
 
 ---
 
-##  Tecnologías y Algoritmos Implementados
+## 👥 Equipo de Desarrollo
 
-Para resolver el problema de recomendación sin librerías externas, se construyeron 3 motores algorítmicos:
+Este proyecto fue desarrollado colaborativamente por los estudiantes:
+* Andrés Rodas
+* Patricia Rebatta
+* Marcelo Rodriguez
+
+---
+
+## ⚙️ Tecnologías y Algoritmos Implementados
+
+Para resolver el problema de recomendación se construyeron 3 motores algorítmicos:
 
 1. **Content-Based Filtering (TF-IDF + Similitud Coseno)**
-   - Construcción de "Tag Soups" uniendo directores, keywords, y cast.
-   - Vectorización de textos usando la frecuencia de términos inversa matemáticamente pura.
+   * Construcción de "Tag Soups" uniendo directores, keywords, y cast.
+   * Vectorización de textos usando la frecuencia de términos inversa matemáticamente pura.
 2. **Matrix Factorization con SGD (Stochastic Gradient Descent)**
-   - Algoritmo de optimización que descompone una matriz de ratings empírica en matrices latentes P y Q.
-   - Entrenamiento iterativo minimizando el Error Cuadrático Medio (RMSE) con regularización $\lambda$.
+   * Algoritmo de optimización que descompone una matriz de ratings empírica en matrices latentes P y Q.
+   * Entrenamiento iterativo minimizando el Error Cuadrático Medio (RMSE) con regularización $\lambda$.
 3. **K-Nearest Neighbors (KNN Colaborativo)**
-   - Basado en memoria mediante promedios ponderados por distancia coseno entre ítems.
+   * Basado en memoria mediante promedios ponderados por distancia coseno entre ítems.
+
+---
+
+## 🚀 Instrucciones de Instalación y Uso
+
+Sigue estos pasos para ejecutar el proyecto en tu máquina local:
+
+### 1. Clonar el repositorio y preparar el entorno
+```bash
+git clone [https://github.com/AndresRJ18/ML_MOVIES.git](https://github.com/AndresRJ18/ML_MOVIES.git)
+cd ML_MOVIES
+
+# Instalar los requerimientos (solo Numpy, Pandas, Matplotlib y Jupyter)
+pip install -r requirements.txt
 
 ---
 
