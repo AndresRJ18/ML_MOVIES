@@ -9,7 +9,9 @@
 </div>
 
 ---
+## Link de la presentación: https://canva.link/qv6qbazm5m4yk22 
 
+---
 ## 📖 Descripción del Proyecto
 
 En la era de la economía digital, la sobreabundancia de información en las plataformas de streaming genera una severa fatiga de decisión en los usuarios. **MOVIE_ML** nace como una solución integral a este problema, utilizando el dataset de TMDB para filtrar contenido de manera eficiente y ajustar matemáticamente las recomendaciones a la identidad de cada usuario.
