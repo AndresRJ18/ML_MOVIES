@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🎬 Movie Recommender System (MOVIE_ML)</h1>
+  <h1>Sistema de Recomendación de Películas (MOVIE_ML)</h1>
   <p><em>Construyendo un Sistema de Recomendación </em></p>
 
   ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)
