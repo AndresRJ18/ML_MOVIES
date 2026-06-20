@@ -90,6 +90,13 @@ Y ejecuta los notebooks en el siguiente orden estricto dentro de la carpeta `/no
 4. `04_matrix_factorization.ipynb` *(Ejecución del modelo de Patricia)*
 5. `05_knn.ipynb` *(Ejecución del modelo de Marcelo)*
 6. `06_evaluation_comparison.ipynb` *(Métricas finales y tabla de conclusiones)*
+7. `07_robustness_experiment.ipynb` *(Análisis de robustez y sensibilidad al ruido)*
+
+---
+
+## 📚 Preparación para la Sustentación
+
+Para preparar el examen y la defensa del proyecto, consulta la guía detallada [preparacion_sustentacion.md](file:///C:/Users/andre/DockerProyectos/ML_MOVIES/preparacion_sustentacion.md) que responde de forma teórica y empírica a las preguntas clave del jurado sobre **PCA**, **tasa de aprendizaje (learning rate)**, y **preprocesamiento**.
 
 ---
 
